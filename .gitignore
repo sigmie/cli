@@ -1,0 +1,14 @@
+.DS_Store
+
+.vscode
+.devcontainer
+
+composer.lock
+
+*.tmp
+
+vendor
+
+cov-html
+cov.txt
+cov.xml
