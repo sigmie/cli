@@ -5,6 +5,10 @@
 
 composer.lock
 
+coverage.xml
+
+.php_cs.cache
+
 *.tmp
 
 vendor
